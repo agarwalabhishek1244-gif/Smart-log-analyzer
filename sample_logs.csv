@@ -1,0 +1,5 @@
+timestamp,level,message
+2026-04-01 10:00,INFO,User login successful
+2026-04-01 10:05,ERROR,Database connection failed
+2026-04-01 10:10,WARNING,Disk space low
+2026-04-01 10:15,ERROR,Timeout occurred
